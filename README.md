@@ -1,9 +1,7 @@
 Monster Hunter Wilds
 Interactive Hunter Handbook
 
-Changes since showing you in lab:
-As suggested, I moved the formatUnixDate() function into NewsState.kt since it was not a composable,
-more of a helper function.
+COMP 3717 Term Project - Android Development & Kotlin
 
 Purpose: 
 To help hunters quickly visualize a monster's elemental weakness to save time looking it up in game.
