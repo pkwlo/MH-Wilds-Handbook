@@ -1,0 +1,624 @@
+[
+    {
+        "id": 1,
+        "name": "Ajarakan",
+        "imageResId": "large_ajarakan",
+        "elemental_weakness": [
+            "water",
+            "ice"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Oilwell Basin",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Arkveld",
+        "imageResId": "large_arkveld",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest",
+            "Oilwell Basin",
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Balahara",
+        "imageResId": "large_balahara",
+        "elemental_weakness": [
+            "thunder"
+        ],
+        "elemental_resistance": [
+            "water"
+        ],
+        "status_weakness": [
+            "paralysis",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Blagonga",
+        "imageResId": "large_blagonga",
+        "elemental_weakness": [
+            "fire",
+            "thunder"
+        ],
+        "elemental_resistance": [
+            "dragon",
+            "ice"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chatacabra",
+        "imageResId": "large_chatacabra",
+        "elemental_weakness": [
+            "ice",
+            "thunder"
+        ],
+        "elemental_resistance": [
+            "dragon"
+        ],
+        "status_weakness": [
+            "poison",
+            "paralysis",
+            "stun"
+        ],
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Congalala",
+        "imageResId": "large_congalala",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Scarlet Forest",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Doshaguma",
+        "imageResId": "large_doshaguma",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Gore Magala",
+        "imageResId": "large_gore_magala",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "water"
+        ],
+        "status_weakness": [
+            "blast",
+            "exhaust"
+        ],
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Gravios",
+        "imageResId": "large_gravios",
+        "elemental_weakness": [
+            "water"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Oilwell Basin",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Guardian Arkveld",
+        "imageResId": "large_guardian_arkveld",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Gaurdian Doshaguma",
+        "imageResId": "large_guardian_doshaguma",
+        "elemental_weakness": [
+            "fire",
+            "ice"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Gaurdian Ebony Odogaron",
+        "imageResId": "large_gaurdian_ebony_odogaron",
+        "elemental_weakness": [
+            "water"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Guardian Fulgur Anjanath",
+        "imageResId": "large_guardian_fulgur_anjanath",
+        "elemental_weakness": [
+            "ice"
+        ],
+        "elemental_resistance": [
+            "thunder",
+            "dragon"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Guardian Ratholos",
+        "imageResId": "large_guardian_ratholos",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Gypceros",
+        "imageResId": "large_gypceros",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "thunder"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest",
+            "Oilwell Basin",
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Hirabami",
+        "imageResId": "large_hirabami",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "ice"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep"
+        ],
+        "location": [
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Jin Dahaad",
+        "imageResId": "large_jin_dahaad",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "ice"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Lala Barina",
+        "imageResId": "large_lala_barina",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "water",
+            "dragon"
+        ],
+        "status_weakness": [
+            "stun"
+        ],
+        "location": [
+            "Scarlet Forest",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Nerscylla",
+        "imageResId": "large_nerscylla",
+        "elemental_weakness": [
+            "fire"
+        ],
+        "elemental_resistance": [
+            "watter",
+            "thunder",
+            "dragon"
+        ],
+        "status_weakness": [
+            "paralysis"
+        ],
+        "location": [
+            "Oilwell Basin",
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Nu Udra",
+        "imageResId": "large_nu_udra",
+        "elemental_weakness": [
+            "water"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Quematrice",
+        "imageResId": "large_quematrice",
+        "elemental_weakness": [
+            "water"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "poison",
+            "paralysis"
+        ],
+        "location": [
+            "Windward Plains",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Rathalos",
+        "imageResId": "large_rathalos",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Scarlet Forest",
+            "Oilwell Basin",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Rathian",
+        "imageResId": "large_rathiian",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            "fire"
+        ],
+        "status_weakness": [
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest",
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Rey Dau",
+        "imageResId": "large_rey_dau",
+        "elemental_weakness": [
+            "ice"
+        ],
+        "elemental_resistance": [
+            "thunder"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "blast",
+            "exhaust"
+        ],
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Rompopolo",
+        "imageResId": "large_rompopolo",
+        "elemental_weakness": [
+            "water"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Uth Duna",
+        "imageResId": "large_uth_duna",
+        "elemental_weakness": [
+            "thunder"
+        ],
+        "elemental_resistance": [
+            "water"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "exhaust"
+        ],
+        "location": [
+            "Scarlet Forest"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Xu Wu",
+        "imageResId": "large_xu_wu",
+        "elemental_weakness": [
+            "ice"
+        ],
+        "elemental_resistance": [
+            "dragon"
+        ],
+        "status_weakness": [
+            "poison"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Yian Kut-Ku",
+        "imageResId": "large_yian_kut_ku",
+        "elemental_weakness": [
+            "thunder",
+            "ice"
+        ],
+        "elemental_resistance": [
+            "dragon"
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast",
+            "stun",
+            "exhaust"
+        ],
+        "location": [
+            "Scarlet Forest",
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Zoh Shia",
+        "imageResId": "large_zoh_shia",
+        "elemental_weakness": [
+            "dragon"
+        ],
+        "elemental_resistance": [
+            null
+        ],
+        "status_weakness": [
+            "poison",
+            "sleep",
+            "paralysis",
+            "blast"
+        ],
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    }
+]

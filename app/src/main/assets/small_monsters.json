@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "Bulaqchi",
+        "imageResId": "small_bulaqchi",
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Baunos",
+        "imageResId": "small_baunos",
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ceratonoth",
+        "imageResId": "small_ceratonoth",
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dalthydon",
+        "imageResId": "small_dalthydon",
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Talioth",
+        "imageResId": "small_talioth",
+        "location": [
+            "Windward Plains"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Gajios",
+        "imageResId": "small_gajios",
+        "location": [
+            "Windward Plains",
+            "Scarlet Forest"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Gelidron",
+        "imageResId": "small_gelidron",
+        "location": [
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Kranodath",
+        "imageResId": "small_kranodath",
+        "location": [
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Harpios",
+        "imageResId": "small_harpios",
+        "location": [
+            "Scarlet Forest",
+            "Oilwell Basin"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Conga",
+        "imageResId": "small_conga",
+        "location": [
+            "Scarlet Forest"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Vespoid",
+        "imageResId": "small_vespoid",
+        "location": [
+            "Scarlet Forest",
+            "Oilwell Basin",
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Piragill",
+        "imageResId": "small_piragill",
+        "location": [
+            "Scarlet Forest"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Nerscylla Hatchling",
+        "imageResId": "small_nerscylla_hatchling",
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Comaqchi",
+        "imageResId": "small_comaqchi",
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Blango",
+        "imageResId": "small_blango",
+        "location": [
+            "Iceshard Cliffs"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Porkplume",
+        "imageResId": "small_porkplume",
+        "location": [
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Rafma",
+        "imageResId": "small_rafma",
+        "location": [
+            "Iceshard Cliffs",
+            "Ruins of Wyveria"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gaurdian Seikret",
+        "imageResId": "small_gaurdian_seikret",
+        "location": [
+            "Ruins of Wyveria"
+        ]
+    }
+]

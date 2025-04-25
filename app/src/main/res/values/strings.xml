@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <array name="large_monsters">
+        <item>ajarakan</item>
+        <item>arkveld</item>
+        <item>balahara</item>
+        <item>blangonga</item>
+        <item>chatacabra</item>
+        <item>congalala</item>
+        <item>doshaguma</item>
+        <item>gore magala</item>
+        <item>gravios</item>
+        <item>guardian arkveld</item>
+        <item>guardian doshaguma</item>
+        <item>guardian ebony odogaron</item>
+        <item>guardian fulgur anjanath</item>
+        <item>guardian rathalos</item>
+        <item>gypceros</item>
+        <item>hirabami</item>
+        <item>jin dahaad</item>
+        <item>lala barina</item>
+        <item>nerscylla</item>
+        <item>nu udra</item>
+        <item>quematrice</item>
+        <item>rathalos</item>
+        <item>rathian</item>
+        <item>rey dau</item>
+        <item>rompopolo</item>
+        <item>uth duna</item>
+        <item>xu wu</item>
+        <item>yian kut ku</item>
+        <item>zoh shia</item>
+    </array>
+    <array name="small_monsters">
+        <item>baunos</item>
+        <item>blango</item>
+        <item>bulaqchi</item>
+        <item>ceratonoth</item>
+        <item>comaqchi</item>
+        <item>conga</item>
+        <item>dalthydon</item>
+        <item>gajios</item>
+        <item>gelidron</item>
+        <item>guardian seikret</item>
+        <item>harpios</item>
+        <item>kranodath</item>
+        <item>nerscylla hatchling</item>
+        <item>piragill</item>
+        <item>porkeplume</item>
+        <item>rafma</item>
+        <item>talioth</item>
+        <item>vespoid</item>
+    </array>
+</resources>
