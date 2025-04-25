@@ -1,24 +1,23 @@
-Monster Hunter Wilds
-Interactive Hunter Handbook
 
-COMP 3717 Term Project - Android Development & Kotlin
+# COMP 3717 Term Project - Android Development & Kotlin
+## Monster Hunter Wilds: Interactive Hunter Handbook
 
-Purpose: 
+## Purpose: 
 To help hunters quickly visualize a monster's elemental weakness to save time looking it up in game.
 (The colours of the monster cards corresponds to it's elemental weakness)
 
-Home:
+## Home:
 Show newest official game updates from Capcom with links to the article on Steam using Steam API
 
-Large Monsters:
+## Large Monsters:
 Additional monster information shown when clicking the monster cards also includes more elemental 
 weaknesses/resistances, status weaknesses/resistances, and locations on where the monster may spawn.
 
-Small Monsters:
+## Small Monsters:
 Additional monster location information shown when clicking the monster cards. Includes an expanded 
 number of locations as each small monster may live in more than one locale. 
 
-Log Crown:
+## Log Crown:
 Log crowns (largest/second largest and smallest/second smallest monster) discovered for each monster
 while fighting and add notes for fun. 
 Stores and displays crown info in RoomDB which persists between sessions.
